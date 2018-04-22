@@ -1,0 +1,241 @@
+[graphicssettings.cpp:85]: Resolution width to low. Setting it to 1024
+[graphicssettings.cpp:95]: Resolution height to low. Setting it to 720
+[history.cpp:782]: Error in common/province_setup/00_province_setup.txt: Max settlements for 768 does not correspond to history. This is either a mismatch, or too few baronies being defined.
+[character.cpp:26368]: Character 'Ylva of ---(1121356)' has invalid religion
+[character.cpp:26368]: Character 'Ferux of ---(1117603)' has invalid religion
+[character.cpp:26368]: Character 'Bertil of ---(1106806)' has invalid religion
+[character.cpp:26368]: Character 'Hjalmar of ---(1105393)' has invalid religion
+[character.cpp:26368]: Character 'Ingemar of ---(1060000)' has invalid religion
+[character.cpp:26368]: Character 'Torsten of ---(1060001)' has invalid religion
+[character.cpp:26368]: Character 'Grim of ---(1090413)' has invalid religion
+[character.cpp:26368]: Character 'Vsevolod of ---(1076782)' has invalid religion
+[character.cpp:26368]: Character 'Arnfast of ---(1092817)' has invalid religion
+[character.cpp:26368]: Character 'Henrik of ---(1094706)' has invalid religion
+[character.cpp:26368]: Character 'Sverker of ---(1116427)' has invalid religion
+[settlement.cpp:513]: Building 'tb_training_grounds_3' constructed in 'b_pereyaslavl' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_3' constructed in 'b_bosphoros' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tp_barracks_3' constructed in 'b_arca' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_war_camp_4' constructed in 'b_perym' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_2' constructed in 'b_mansiysk' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_war_camp_3' constructed in 'b_tandalti' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_3' constructed in 'b_rolagang' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_bome' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_4' constructed in 'b_banbar' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tp_wall_q_2' constructed in 'b_cona' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_3' constructed in 'b_tsakha' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_qaidam' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_lenghu' while the building it upgrades from is missing
+[history.cpp:782]: Error in common/province_setup/00_province_setup.txt: Max settlements for 768 does not correspond to history. This is either a mismatch, or too few baronies being defined.
+[character.cpp:26368]: Character 'Ylva of ---(1121356)' has invalid religion
+[character.cpp:26368]: Character 'Sigurd of ---(1125405)' has invalid religion
+[character.cpp:26368]: Character 'Ferux of ---(1117603)' has invalid religion
+[character.cpp:26368]: Character 'Bertil of ---(1106806)' has invalid religion
+[character.cpp:26368]: Character 'Ingemar of ---(1060000)' has invalid religion
+[character.cpp:26368]: Character 'Torsten of ---(1060001)' has invalid religion
+[character.cpp:26368]: Character 'Grim of ---(1090413)' has invalid religion
+[character.cpp:26368]: Character 'Vsevolod of ---(1076782)' has invalid religion
+[character.cpp:26368]: Character 'Arnfast of ---(1092817)' has invalid religion
+[character.cpp:26368]: Character 'Henrik of ---(1094706)' has invalid religion
+[character.cpp:26368]: Character 'Sverker of ---(1116427)' has invalid religion
+[character.cpp:26368]: Character 'Hjalmar of ---(1105393)' has invalid religion
+[settlement.cpp:513]: Building 'tb_training_grounds_3' constructed in 'b_pereyaslavl' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_3' constructed in 'b_bosphoros' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tp_barracks_3' constructed in 'b_arca' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_war_camp_4' constructed in 'b_perym' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_2' constructed in 'b_mansiysk' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_war_camp_3' constructed in 'b_tandalti' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_3' constructed in 'b_rolagang' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_bome' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_4' constructed in 'b_banbar' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tp_wall_q_2' constructed in 'b_cona' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_3' constructed in 'b_tsakha' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_qaidam' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_lenghu' while the building it upgrades from is missing
+[messagehandler.cpp:423]: Failed to find message type: ASK_TO_DECLARE_WAR_INTERACTION_ACCEPT
+[history.cpp:782]: Error in common/province_setup/00_province_setup.txt: Max settlements for 768 does not correspond to history. This is either a mismatch, or too few baronies being defined.
+[character.cpp:26368]: Character 'Ylva of ---(1121356)' has invalid religion
+[character.cpp:26368]: Character 'Sigurd of ---(1125405)' has invalid religion
+[character.cpp:26368]: Character 'Ferux of ---(1117603)' has invalid religion
+[character.cpp:26368]: Character 'Bertil of ---(1106806)' has invalid religion
+[character.cpp:26368]: Character 'Ingemar of ---(1060000)' has invalid religion
+[character.cpp:26368]: Character 'Torsten of ---(1060001)' has invalid religion
+[character.cpp:26368]: Character 'Grim of ---(1090413)' has invalid religion
+[character.cpp:26368]: Character 'Vsevolod of ---(1076782)' has invalid religion
+[character.cpp:26368]: Character 'Arnfast of ---(1092817)' has invalid religion
+[character.cpp:26368]: Character 'Henrik of ---(1094706)' has invalid religion
+[character.cpp:26368]: Character 'Sverker of ---(1116427)' has invalid religion
+[character.cpp:26368]: Character 'Hjalmar of ---(1105393)' has invalid religion
+[settlement.cpp:513]: Building 'tb_training_grounds_3' constructed in 'b_pereyaslavl' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_3' constructed in 'b_bosphoros' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tp_barracks_3' constructed in 'b_arca' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_war_camp_4' constructed in 'b_perym' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_2' constructed in 'b_mansiysk' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_war_camp_3' constructed in 'b_tandalti' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_3' constructed in 'b_rolagang' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_bome' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_4' constructed in 'b_banbar' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tp_wall_q_2' constructed in 'b_cona' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_3' constructed in 'b_tsakha' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_qaidam' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_lenghu' while the building it upgrades from is missing
+[messagehandler.cpp:423]: Failed to find message type: ASK_TO_DECLARE_WAR_INTERACTION_DECLINE
+[history.cpp:782]: Error in common/province_setup/00_province_setup.txt: Max settlements for 768 does not correspond to history. This is either a mismatch, or too few baronies being defined.
+[character.cpp:26368]: Character 'Ylva of ---(1121356)' has invalid religion
+[character.cpp:26368]: Character 'Sigurd of ---(1125405)' has invalid religion
+[character.cpp:26368]: Character 'Ferux of ---(1117603)' has invalid religion
+[character.cpp:26368]: Character 'Bertil of ---(1106806)' has invalid religion
+[character.cpp:26368]: Character 'Ingemar of ---(1060000)' has invalid religion
+[character.cpp:26368]: Character 'Torsten of ---(1060001)' has invalid religion
+[character.cpp:26368]: Character 'Grim of ---(1090413)' has invalid religion
+[character.cpp:26368]: Character 'Vsevolod of ---(1076782)' has invalid religion
+[character.cpp:26368]: Character 'Arnfast of ---(1092817)' has invalid religion
+[character.cpp:26368]: Character 'Henrik of ---(1094706)' has invalid religion
+[character.cpp:26368]: Character 'Sverker of ---(1116427)' has invalid religion
+[character.cpp:26368]: Character 'Hjalmar of ---(1105393)' has invalid religion
+[settlement.cpp:513]: Building 'tb_training_grounds_3' constructed in 'b_pereyaslavl' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_3' constructed in 'b_bosphoros' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tp_barracks_3' constructed in 'b_arca' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_war_camp_4' constructed in 'b_perym' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_2' constructed in 'b_mansiysk' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_war_camp_3' constructed in 'b_tandalti' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_3' constructed in 'b_rolagang' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_bome' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_4' constructed in 'b_banbar' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tp_wall_q_2' constructed in 'b_cona' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_3' constructed in 'b_tsakha' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_qaidam' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_lenghu' while the building it upgrades from is missing
+[messagehandler.cpp:423]: Failed to find message type: ASK_TO_DECLARE_WAR_INTERACTION_ACCEPT
+[settlement.cpp:513]: Building 'tp_wall_3' constructed in 'b_jativa' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_3' constructed in 'b_aoudaghost' while the building it upgrades from is missing
+[messagehandler.cpp:423]: Failed to find message type: ASK_TO_DECLARE_WAR_INTERACTION_ACCEPT
+[messagehandler.cpp:423]: Failed to find message type: ASK_TO_DECLARE_WAR_INTERACTION_ACCEPT
+[history.cpp:782]: Error in common/province_setup/00_province_setup.txt: Max settlements for 768 does not correspond to history. This is either a mismatch, or too few baronies being defined.
+[character.cpp:26368]: Character 'Sigurd of ---(1125405)' has invalid religion
+[character.cpp:26368]: Character 'Dyre of ---(1131961)' has invalid religion
+[character.cpp:26368]: Character 'Bertil of ---(1106806)' has invalid religion
+[character.cpp:26368]: Character 'Björn of ---(1132739)' has invalid religion
+[character.cpp:26368]: Character 'Ingemar of ---(1060000)' has invalid religion
+[character.cpp:26368]: Character 'Torsten of ---(1060001)' has invalid religion
+[character.cpp:26368]: Character 'Grim of ---(1090413)' has invalid religion
+[character.cpp:26368]: Character 'Vsevolod of ---(1076782)' has invalid religion
+[character.cpp:26368]: Character 'Arnfast of ---(1092817)' has invalid religion
+[character.cpp:26368]: Character 'Henrik of ---(1094706)' has invalid religion
+[character.cpp:26368]: Character 'Sverker of ---(1116427)' has invalid religion
+[character.cpp:26368]: Character 'Hjalmar of ---(1105393)' has invalid religion
+[character.cpp:26368]: Character 'Ferux of ---(1117603)' has invalid religion
+[settlement.cpp:513]: Building 'tp_wall_3' constructed in 'b_jativa' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_training_grounds_3' constructed in 'b_pereyaslavl' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_3' constructed in 'b_bosphoros' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tp_barracks_3' constructed in 'b_arca' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_war_camp_4' constructed in 'b_perym' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_2' constructed in 'b_mansiysk' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_3' constructed in 'b_aoudaghost' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_war_camp_3' constructed in 'b_tandalti' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_3' constructed in 'b_rolagang' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_bome' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_4' constructed in 'b_banbar' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tp_wall_q_2' constructed in 'b_cona' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_3' constructed in 'b_tsakha' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_qaidam' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_lenghu' while the building it upgrades from is missing
+[history.cpp:782]: Error in common/province_setup/00_province_setup.txt: Max settlements for 768 does not correspond to history. This is either a mismatch, or too few baronies being defined.
+[character.cpp:26368]: Character 'Sigurd of ---(1125405)' has invalid religion
+[character.cpp:26368]: Character 'Dyre of ---(1131961)' has invalid religion
+[character.cpp:26368]: Character 'Bertil of ---(1106806)' has invalid religion
+[character.cpp:26368]: Character 'Björn of ---(1132739)' has invalid religion
+[militarycomposition.cpp:141]: Military composition has reference to invalid troop type! type: none, location:  file: save games//autosave.ck2 line: 669841
+[militarycomposition.cpp:141]: Military composition has reference to invalid troop type! type: none, location:  file: save games//autosave.ck2 line: 669870
+[militarycomposition.cpp:141]: Military composition has reference to invalid troop type! type: none, location:  file: save games//autosave.ck2 line: 669900
+[character.cpp:26368]: Character 'Ingemar of ---(1060000)' has invalid religion
+[character.cpp:26368]: Character 'Torsten of ---(1060001)' has invalid religion
+[character.cpp:26368]: Character 'Grim of ---(1090413)' has invalid religion
+[character.cpp:26368]: Character 'Vsevolod of ---(1076782)' has invalid religion
+[character.cpp:26368]: Character 'Arnfast of ---(1092817)' has invalid religion
+[character.cpp:26368]: Character 'Henrik of ---(1094706)' has invalid religion
+[character.cpp:26368]: Character 'Sverker of ---(1116427)' has invalid religion
+[character.cpp:26368]: Character 'Hjalmar of ---(1105393)' has invalid religion
+[character.cpp:26368]: Character 'Ferux of ---(1117603)' has invalid religion
+[settlement.cpp:513]: Building 'tp_wall_3' constructed in 'b_jativa' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_training_grounds_3' constructed in 'b_pereyaslavl' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_3' constructed in 'b_bosphoros' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tp_barracks_3' constructed in 'b_arca' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_war_camp_4' constructed in 'b_perym' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_2' constructed in 'b_mansiysk' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_3' constructed in 'b_aoudaghost' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_war_camp_3' constructed in 'b_tandalti' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_3' constructed in 'b_rolagang' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_bome' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_4' constructed in 'b_banbar' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tp_wall_q_2' constructed in 'b_cona' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_3' constructed in 'b_tsakha' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_qaidam' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_lenghu' while the building it upgrades from is missing
+[history.cpp:782]: Error in common/province_setup/00_province_setup.txt: Max settlements for 768 does not correspond to history. This is either a mismatch, or too few baronies being defined.
+[character.cpp:26368]: Character 'Sigurd of ---(1125405)' has invalid religion
+[character.cpp:26368]: Character 'Dyre of ---(1131961)' has invalid religion
+[character.cpp:26368]: Character 'Bertil of ---(1106806)' has invalid religion
+[character.cpp:26368]: Character 'Björn of ---(1132739)' has invalid religion
+[militarycomposition.cpp:141]: Military composition has reference to invalid troop type! type: none, location:  file: save games//autosave.ck2 line: 669841
+[militarycomposition.cpp:141]: Military composition has reference to invalid troop type! type: none, location:  file: save games//autosave.ck2 line: 669870
+[militarycomposition.cpp:141]: Military composition has reference to invalid troop type! type: none, location:  file: save games//autosave.ck2 line: 669900
+[character.cpp:26368]: Character 'Ingemar of ---(1060000)' has invalid religion
+[character.cpp:26368]: Character 'Torsten of ---(1060001)' has invalid religion
+[character.cpp:26368]: Character 'Grim of ---(1090413)' has invalid religion
+[character.cpp:26368]: Character 'Vsevolod of ---(1076782)' has invalid religion
+[character.cpp:26368]: Character 'Arnfast of ---(1092817)' has invalid religion
+[character.cpp:26368]: Character 'Henrik of ---(1094706)' has invalid religion
+[character.cpp:26368]: Character 'Sverker of ---(1116427)' has invalid religion
+[character.cpp:26368]: Character 'Hjalmar of ---(1105393)' has invalid religion
+[character.cpp:26368]: Character 'Ferux of ---(1117603)' has invalid religion
+[settlement.cpp:513]: Building 'tp_wall_3' constructed in 'b_jativa' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_training_grounds_3' constructed in 'b_pereyaslavl' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_3' constructed in 'b_bosphoros' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tp_barracks_3' constructed in 'b_arca' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_war_camp_4' constructed in 'b_perym' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_2' constructed in 'b_mansiysk' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_3' constructed in 'b_aoudaghost' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_war_camp_3' constructed in 'b_tandalti' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_3' constructed in 'b_rolagang' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_bome' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_4' constructed in 'b_banbar' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tp_wall_q_2' constructed in 'b_cona' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_3' constructed in 'b_tsakha' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_qaidam' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_lenghu' while the building it upgrades from is missing
+[history.cpp:782]: Error in common/province_setup/00_province_setup.txt: Max settlements for 768 does not correspond to history. This is either a mismatch, or too few baronies being defined.
+[character.cpp:26368]: Character 'Sigurd of ---(1125405)' has invalid religion
+[character.cpp:26368]: Character 'Dyre of ---(1131961)' has invalid religion
+[character.cpp:26368]: Character 'Bertil of ---(1106806)' has invalid religion
+[character.cpp:26368]: Character 'Björn of ---(1132739)' has invalid religion
+[militarycomposition.cpp:141]: Military composition has reference to invalid troop type! type: none, location:  file: save games//autosave.ck2 line: 669841
+[militarycomposition.cpp:141]: Military composition has reference to invalid troop type! type: none, location:  file: save games//autosave.ck2 line: 669870
+[militarycomposition.cpp:141]: Military composition has reference to invalid troop type! type: none, location:  file: save games//autosave.ck2 line: 669900
+[character.cpp:26368]: Character 'Ingemar of ---(1060000)' has invalid religion
+[character.cpp:26368]: Character 'Torsten of ---(1060001)' has invalid religion
+[character.cpp:26368]: Character 'Grim of ---(1090413)' has invalid religion
+[character.cpp:26368]: Character 'Vsevolod of ---(1076782)' has invalid religion
+[character.cpp:26368]: Character 'Arnfast of ---(1092817)' has invalid religion
+[character.cpp:26368]: Character 'Henrik of ---(1094706)' has invalid religion
+[character.cpp:26368]: Character 'Sverker of ---(1116427)' has invalid religion
+[character.cpp:26368]: Character 'Hjalmar of ---(1105393)' has invalid religion
+[character.cpp:26368]: Character 'Ferux of ---(1117603)' has invalid religion
+[settlement.cpp:513]: Building 'tp_wall_3' constructed in 'b_jativa' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_training_grounds_3' constructed in 'b_pereyaslavl' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_3' constructed in 'b_bosphoros' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tp_barracks_3' constructed in 'b_arca' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_war_camp_4' constructed in 'b_perym' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_2' constructed in 'b_mansiysk' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_3' constructed in 'b_aoudaghost' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_war_camp_3' constructed in 'b_tandalti' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_3' constructed in 'b_rolagang' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_bome' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_4' constructed in 'b_banbar' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tp_wall_q_2' constructed in 'b_cona' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_practice_range_3' constructed in 'b_tsakha' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_qaidam' while the building it upgrades from is missing
+[settlement.cpp:513]: Building 'tb_arsenal_4' constructed in 'b_lenghu' while the building it upgrades from is missing
+[messagehandler.cpp:423]: Failed to find message type: ASK_TO_DECLARE_WAR_INTERACTION_ACCEPT
+[settlement.cpp:513]: Building 'ca_town_3' constructed in 'b_ostrov' while the building it upgrades from is missing
+[messagehandler.cpp:423]: Failed to find message type: ASK_TO_DECLARE_WAR_INTERACTION_DECLINE
+[history.cpp:782]: Error in common/province_setup/00_province_setup.txt: Max settlements for 768 does not correspond to history. This is either a mismatch, or too few baronies being defined.

@@ -1,0 +1,31 @@
+[17:38:23][pdx_pops_login.cpp:329]: Unsupported platform
+[17:38:23][pdx_pops_login.cpp:407]: Could not get session folder
+[17:39:09][select_empire_design_view.cpp:595]: Hiding invalid prescripted empire design 'voor':
+[17:39:09][select_empire_design_view.cpp:599]:     Appearance:
+    Humanoid:
+    trigger_no Missing DLCs
+
+[17:39:09][select_empire_design_view.cpp:595]: Hiding invalid prescripted empire design 'tebrid':
+[17:39:09][select_empire_design_view.cpp:599]:     Appearance:
+    Machine:
+    trigger_no Missing DLCs
+    Government & Ethics:
+    Machine Intelligence:
+    trigger_no Missing DLCs
+
+[17:39:09][select_empire_design_view.cpp:595]: Hiding invalid prescripted empire design 'custodianship':
+[17:39:09][select_empire_design_view.cpp:599]:     Appearance:
+    Machine:
+    trigger_no Missing DLCs
+    Government & Ethics:
+    Machine Intelligence:
+    trigger_no Missing DLCs
+
+[17:39:09][select_empire_design_view.cpp:595]: Hiding invalid prescripted empire design 'xt489':
+[17:39:09][select_empire_design_view.cpp:599]:     Appearance:
+    Machine:
+    trigger_no Missing DLCs
+    Government & Ethics:
+    Machine Intelligence:
+    trigger_no Missing DLCs
+

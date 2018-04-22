@@ -1,0 +1,13 @@
+game_rules=
+{
+	defensive_pacts="off"
+}
+game_rules=
+{
+}
+game_rules=
+{
+}
+game_rules=
+{
+}

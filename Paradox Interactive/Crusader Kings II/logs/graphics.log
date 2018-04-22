@@ -1,0 +1,11 @@
+[provincetemplate.cpp:237]: Province 0 has invalid origin
+[pdxmapgeneration.cpp:568]: Circular river found at 2015, 1329
+[pdxmapgeneration.cpp:568]: Circular river found at 1995, 1161
+[eu3graphicalmap.cpp:2445]: Invalid port location for province 277, center at 738,434, port location at 729.000000, 424.000000
+[eu3graphicalmap.cpp:2445]: Invalid port location for province 325, center at 621,1246, port location at 613.000000, 1251.000000
+[eu3graphicalmap.cpp:2445]: Invalid port location for province 474, center at 961,1315, port location at 960.000000, 1313.000000
+[eu3graphicalmap.cpp:2445]: Invalid port location for province 910, center at 2232,179, port location at 1427.000000, 191.000000
+[eu3graphicalmap.cpp:2381]: Province 1347 has illegal capital location, x: 2389.000000, y: 1425.000000(Bounds x: 2434-3469, y: 701-857)
+[eu3graphicalmap.cpp:2381]: Province 1348 has illegal capital location, x: 2421.000000, y: 1438.000000(Bounds x: 3011-3584, y: 801-1138)
+[eu3graphicalmap.cpp:2445]: Invalid port location for province 1560, center at 638,1250, port location at 643.000000, 1251.000000
+[eu3graphicalmap.cpp:2445]: Invalid port location for province 1577, center at 628,1184, port location at 625.000000, 1189.000000
